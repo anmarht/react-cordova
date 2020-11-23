@@ -19,8 +19,8 @@
   },
   "scripts": {
     "init": "cordova platform add android",
-    "listdevices": "cordova run android --list",
-    "rundevice": "cordova run android --target 98897a314f4251384b",
+    "list-devices": "cordova run android --list",
+    "run-android": "cordova run android",
     "start": "react-scripts start",
     "build": "cd www && del /f/q/s *.* > nul && cd .. && rd /q /s www && react-scripts build && move build www",
     "test": "react-scripts test",
