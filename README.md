@@ -43,5 +43,5 @@ npm run build
 npm run run-android
 ```
 
-<img src="images/react-cordova.png" />
+<img src="images/react-cordova-run.png" />
 
